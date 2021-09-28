@@ -30,3 +30,5 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+![Calculator](https://user-images.githubusercontent.com/91522465/135036292-334b5ed1-5fb9-4953-b2a7-3d1e3e43716d.png)
